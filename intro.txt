@@ -32,3 +32,9 @@ git status
 8. Create a commit
 
 git commit -m "First Commit with intro.txt File"
+
+
+9. Push the changes to the central repository:
+
+git remote add origin https://github.com/anishkumarroy/Nexturn_test_repo.git
+git push -u origin master
