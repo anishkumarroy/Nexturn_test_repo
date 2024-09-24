@@ -39,5 +39,15 @@ git commit -m "First Commit with intro.txt File"
 git remote add origin https://github.com/anishkumarroy/Nexturn_test_repo.git
 git push -u origin master
 
+-- To make sure the remote is correctly set up or not.
+
+	git remote -v
+	
+-- If needed, we can set or change the remote URL using:
+
+	git remote set-url origin <new-remote-url>
+	
+
+
 
 https://1drv.ms/f/s!Asyenc6vXI9qpZ8G_kIsud97-QBxHQ?e=4HgHed
